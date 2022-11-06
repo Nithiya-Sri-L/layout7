@@ -1,0 +1,333 @@
+  .header .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ 
+  .banner .wrapper
+ {
+	width:80%;
+    margin:auto;	
+ }
+ .content .wrapper
+ {
+	width:80%;
+    margin:auto;	
+ }
+ .team .wrapper
+ {
+	 width:90%;
+	 margin:auto;	
+ }
+ .votes .wrapper
+ {
+	 width:90%;
+	 margin:auto;	
+ }
+ .feedback .wrapper
+ {
+	 width:90%;
+	 margin:auto;
+ }
+ .logos .wrapper
+ {
+	  width:90%;
+	 margin:auto;	
+ }
+ .contact.wrapper
+ {
+	 width:90%;
+	 margin:auto;
+ }
+.header
+ {
+	 height:80px;
+	 background-color:yellow;
+ }
+ .header .header-fc 
+ {
+	 display:flex;
+	 justify-content:space-evenly;
+ }
+ .header .header-fc .home
+ {
+	 text-align:center;
+	 width:40%;
+	 height:80px;
+	  background-color:#e91e63;
+ }
+ .header .header-fc .navi
+ {
+	 text-align:center;
+	 background-color:#e91e63;
+	 width:40%;
+	 height:80px;
+ }
+.banner 
+{
+	text-align:center;
+	height:500px;
+	background-color:#cddc39;
+}
+.content 
+ {
+	 text-align:center;
+	 height:600px;
+	background-color:#e91863;
+ }
+ .content .content-fc
+ {
+	 display:flex;
+	 justify-content:space-around;
+ }
+ .content .content-fc .boxa
+ {
+	 margin-top:70px;
+	 height:400px;
+	 width:40%;
+	 background-color:orange;
+ }
+ .content .content-fc .boxb
+ {
+	 margin-top:70px;
+	 height:500px;
+	 width:45%;
+	 background-color:orange;
+ }
+.team
+{
+	text-align:center;
+	background-color:#03a9f4;
+	height:500px;
+}
+.team .team-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.team .team-fc .boxa
+{
+	margin-top:30px;
+	background-color:#657e15;
+	height:400px;
+	width:30%;
+}
+.team .team-fc .boxb
+{
+	margin-top:30px;
+	background-color:#657e15;
+	height:400px;
+	width:30%;
+}
+.team .team-fc .boxc
+{
+	margin-top:30px;
+	background-color:#657e15;
+	height:400px;
+	width:30%;
+}
+.votes
+{
+	text-align:center;
+	background-color:#657e15;
+	height:500px;
+}
+.votes .votes-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.votes .votes-fc .boxa
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:400px;
+	width:20%;
+}
+.votes .votes-fc .boxb
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:400px;
+	width:20%;
+}
+.votes .votes-fc .boxc
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:400px;
+	width:20%;
+}
+.votes .votes-fc .boxd
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:400px;
+	width:20%;
+}
+.feedback 
+ {
+	 text-align:center;
+	 height:650px;
+	background-color:#e91863;
+ }
+ .feedback .feedback-fc
+ {
+	 display:flex;
+	 justify-content:space-evenly;
+ }
+ .feedback .feedback-fc .boxa
+ {
+	 margin-top:70px;
+	 height:500px;
+	 width:45%;
+	 background-color:orange;
+ }
+ .feedback .feedback-fc .boxb
+ {
+	 margin-top:70px;
+	 height:500px;
+	 width:45%;
+	 background-color:orange;
+ }
+.logos
+{
+	text-align:center;
+	background-color:yellow;
+	height:300px;
+}
+.logos .logos-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.logos .logos-fc .boxa
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:200px;
+	width:15%;
+}
+.logos .logos-fc .boxb
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:200px;
+	width:15%;
+}
+.logos .logos-fc .boxc
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:200px;
+	width:15%;
+}
+.logos .logos-fc .boxd
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:200px;
+	width:15%;
+}
+.logos .logos-fc .boxe
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:200px;
+	width:15%;
+}
+.logos .logos-fc .boxf
+{
+	margin-top:30px;
+	background-color:crimson;
+	height:200px;
+	width:15%;
+}
+.contact 
+{
+	text-align:center;
+	background-color:#009688;
+	height:500px;
+}
+.contact .contact-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.contact .contact-fc .boxa
+{
+	margin-top:30px;
+	background-color:#657e15;
+	height:400px;
+	width:20%;
+}
+.contact  .contact-fc .boxb
+{
+	margin-top:30px;
+	background-color:#657e15;
+	height:400px;
+	width:20%;
+}
+.contact .contact-fc .boxc
+{
+	margin-top:30px;
+	background-color:#657e15;
+	height:400px;
+	width:20%;
+}
+.contact .contact-fc .boxd
+{
+	margin-top:30px;
+	background-color:#657e15;
+	height:400px;
+	width:20%;
+}
+.copyright
+{
+	text-align:center;
+	background-color:yellow;
+	height:200px;
+	width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
